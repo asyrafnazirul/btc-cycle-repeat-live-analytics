@@ -38,5 +38,5 @@ Designed with both **Data Engineering** and **DevOps** resilience principles, th
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/YOUR_GITHUB_USERNAME/btc-fractal-cycle-engine.git](https://github.com/YOUR_GITHUB_USERNAME/btc-fractal-cycle-engine.git)
+git clone [https://github.com/asyrafnazirul/btc-fractal-cycle-engine.git](https://github.com/asyrafnazirul/btc-fractal-cycle-engine.git)
 cd btc-fractal-cycle-engine
